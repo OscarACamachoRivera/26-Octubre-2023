@@ -1,0 +1,1 @@
+ps | awk '{print $num_columna}'
